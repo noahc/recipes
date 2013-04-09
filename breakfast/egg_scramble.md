@@ -2,7 +2,7 @@
 
 ## Ingredients
 
-*Egg
-*English Muffins
-*Cheese
-*Bacon
+* Egg
+* English Muffins
+* Cheese
+* Bacon
